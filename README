@@ -1,0 +1,1 @@
+For every state, this markov chain implementation trains on the original sequence, as well as consecutively smaller versions of the original. It uses a generator to support random walks.
